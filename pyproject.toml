@@ -1,0 +1,7 @@
+[project]
+name = "vigenere-decoder"
+version = "0.1.0"
+description = "Vigenere cipher decoder based on Kasiski and Index of Coincidence analysis."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
